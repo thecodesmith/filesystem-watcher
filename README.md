@@ -16,4 +16,4 @@ Once installed, it can be used from any directory:
 
 This will log filesystem changes like files and directories created, modified, chmod'd, etc.
 
-Built on top of the github.com/radovskyb/watcher library.
+Built on top of the [github.com/radovskyb/watcher](https://github.com/radovskyb/watcher) library.
